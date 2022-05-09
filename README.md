@@ -1,1 +1,3 @@
 # NAND2TETRIS
+
+In this project we will build a modern computer system from the ground up. This project will take on from constructing elementary logic gates to fully functional general-purpose computer. Starting of with NAND gate we will be able to build hardware like ALU, memory and assembler. After that we will be building modern software hierarchy, designed to enable the translation and execution of object-based, high level languages on a bare-bone computer hardware system. we will implement a virtual machine and a compiler for a simple, Java-like programming language and at last we will develop a basic operating system that closes gaps between the high-level language and the underlying hardware platform.  
